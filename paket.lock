@@ -1,0 +1,26 @@
+REDIRECTS: ON
+RESTRICTION: == net45
+NUGET
+  remote: https://api.nuget.org/v3/index.json
+    canopy (1.5)
+      FSharp.Core (>= 3.0.2)
+      Selenium.WebDriver (>= 3.4)
+    FSharp.Core (4.2.3)
+    FsUnit.xUnit (3.0)
+      FSharp.Core (>= 3.1.2.5)
+      xunit (2.1)
+    Selenium.WebDriver (3.5.1)
+    xunit (2.1)
+      xunit.assert (2.1)
+      xunit.core (2.1)
+    xunit.abstractions (2.0)
+    xunit.assert (2.1)
+    xunit.core (2.1)
+      xunit.extensibility.core (2.1)
+      xunit.extensibility.core (2.1)
+      xunit.extensibility.execution (2.1)
+      xunit.extensibility.execution (2.1)
+    xunit.extensibility.core (2.1)
+      xunit.abstractions (2.0)
+    xunit.extensibility.execution (2.1)
+      xunit.extensibility.core (2.1)

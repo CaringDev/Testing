@@ -1,0 +1,7 @@
+source https://api.nuget.org/v3/index.json
+framework: auto-detect
+redirects: on
+
+nuget canopy
+nuget FSharp.Core
+nuget FsUnit.xUnit
